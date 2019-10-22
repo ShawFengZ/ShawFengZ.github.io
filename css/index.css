@@ -135,7 +135,7 @@ table {
   border-collapse: collapse;
 }
 table thead {
-  background: rgba(0,0,0,0.1);
+  background: rgba(105,105,105,0.1);
 }
 table th,
 table td {
@@ -710,8 +710,8 @@ footer.is-mobile {
   top: -56px;
   z-index: 101;
   background: rgba(255,255,255,0.8);
-  -webkit-box-shadow: 0 5px 6px -5px rgba(0,0,0,0.6);
-  box-shadow: 0 5px 6px -5px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 5px 6px -5px rgba(105,105,105,0.6);
+  box-shadow: 0 5px 6px -5px rgba(105,105,105,0.6);
   -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -moz-transition: -moz-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -o-transition: -o-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
@@ -805,10 +805,10 @@ footer.is-mobile {
 }
 .recent-post-item .article-type {
   margin-left: 0.3rem;
-  color: #000;
+  color: #696969;
 }
 .recent-post-item .article-meta {
-  color: #000;
+  color: #696969;
 }
 .recent-post-item .article-meta .sticky {
   color: #000;
@@ -824,7 +824,7 @@ footer.is-mobile {
   margin: 0 0 0 0.3rem;
 }
 .recent-post-item time {
-  color: #000;
+  color: #696969;
 }
 .recent-post-item .more {
   display: inline-block;
@@ -969,7 +969,7 @@ footer.is-mobile {
 .article-sort-item__time {
   position: absolute;
   top: 0.1rem;
-  color: #000;
+  color: #696969;
 }
 .article-sort-item__title {
   display: block;
@@ -993,7 +993,7 @@ footer.is-mobile {
 }
 .category-list .category-list-count {
   margin-left: 0.4rem;
-  color: #000;
+  color: #696969;
 }
 .category-list .category-list-count:before {
   content: "(";
@@ -1114,7 +1114,7 @@ footer.is-mobile {
   cursor: pointer;
 }
 #pagination .space {
-  color: #000;
+  color: #696969;
 }
 #pagination .page-number {
   display: inline-block;
@@ -1154,7 +1154,7 @@ footer.is-mobile {
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
 }
 #post #post-meta {
-  color: #000;
+  color: #696969;
 }
 #post #post-meta a {
   text-decoration: none;
@@ -1437,7 +1437,7 @@ footer.is-mobile {
   margin-bottom: 1rem;
 }
 a {
-  color: #000;
+  color: #696969;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1557,7 +1557,7 @@ img:hover {
   height: 10rem;
 }
 .post-qr-code__desc {
-  color: #000;
+  color: #696969;
 }
 .post-adv {
   margin: 1rem 0;
@@ -1669,7 +1669,7 @@ img:hover {
   font-size: 0.8rem;
 }
 #sidebar .author-info__description {
-  color: #000;
+  color: #696969;
 }
 #sidebar .author-info-articles {
   padding: 0.2rem 0;
@@ -1820,7 +1820,7 @@ img:hover {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
-  color: #000;
+  color: #696969;
   line-height: 1;
   cursor: pointer;
   -webkit-transition: color 0.2s ease-in-out;
